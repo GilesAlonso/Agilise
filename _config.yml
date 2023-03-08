@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: gilesalonso@gmail.com
-url: https://github.com/GilesAlonso/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Agilise
+email: giles.g.alonso@gmail.com
+url: https://github.com/GilesAlonso/Agilise
+description: "Agilise - Quick Solutions"
+keywords: "freelancer, technology, WebDevelopment, Google sheets, appsheet, automation, looker studio, google data studio"
+skills: "Web Developer - Solution Provider - Automations"
+meta_author: Alonso Giles
 
 # Google webmaster tools
 google_verify:
