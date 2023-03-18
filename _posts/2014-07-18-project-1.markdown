@@ -4,7 +4,7 @@ modal-id: 1
 date: 2022-04-01 - Present
 img: edgefinder.png
 alt: edgefinder on a mac
-project-date: April 2022
+project-date: April 2022 - Present
 client: Nick Syiek ("TraderNick")
 category: Looker Studio and backend
 description: Great solution, built following the ideas and goals of Nick Syiek and Frank Cabibi, that turned into a very solid product. Currently it is one of the main products of Nick's company  <a href="https://a1trading.com/">https://a1trading.com/</a> and a bit of its history is explained in this link <a href="https://a1trading.com/edgefinder-story/">EdgeFinder story/</a>. /n The development of it involved using Google Sheets, Apps script, APIs, Looker Studio, Browserflow and some other tecnologies.
