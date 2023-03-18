@@ -7,5 +7,5 @@ alt: edgefinder on a mac
 project-date: April 2022
 client: Nick Syiek ("TraderNick")
 category: Looker Studio and backend
-description: Great solution, built following the ideas and goals of Nick Syiek and Frank Cabibi, that turned into a very solid product. Currently it is one of the main products of Nick's company  https://a1trading.com/  and a bit of its history is explained in this link: https://a1trading.com/edgefinder-story/ . The development of it involved using Google Sheets, Apps script, APIs, Looker Studio, Browserflow and some other tecnologies.
+description: Great solution, built following the ideas and goals of Nick Syiek and Frank Cabibi, that turned into a very solid product. Currently it is one of the main products of Nick's company  https://a1trading.com/  and a bit of its history is explained in this link https://a1trading.com/edgefinder-story/ . The development of it involved using Google Sheets, Apps script, APIs, Looker Studio, Browserflow and some other tecnologies.
 ---
