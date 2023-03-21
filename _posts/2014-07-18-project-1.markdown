@@ -2,8 +2,8 @@
 layout: default
 modal-id: 1
 date: 2022-04-01 - Present
-img: edgefinder.png
-alt: edgefinder on a mac
+img: EdgeFinderEURUSD.png
+alt: edgefinder EUR USD page
 project-date: April 2022 - Present
 client: Nick Syiek ("TraderNick")
 category: Looker Studio and backend
