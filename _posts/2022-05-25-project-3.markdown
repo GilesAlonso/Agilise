@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2022-05-25
+img: LedwellAuctions.png
+alt: image-alt
+project-date: April 2014
+client: Jamie Ledwell
+category: Appsheet / Google Sheets
+description: Jamie works in the auction field, and requested an app, based on his google sheet, that would allow him to have an easier time managing the next auctions dates, location, and assignment. <br>His sheet was fully functional, and automated, but the app added a new layer of usefulness to it. <br>It includes functions like  mapping the residence locations, categorizing them, calling the google maps app, and also shows a map (.kml file) superposing a flood that happened in the area in 2014, that certainly affects house pricing.
+---
