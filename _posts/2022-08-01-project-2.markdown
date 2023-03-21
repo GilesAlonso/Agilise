@@ -7,5 +7,5 @@ alt: Bees Videos Dashboard
 project-date: July 2022
 client: Paulo Weidebach - Videoimagem
 category: Google Data Studio (Looker Studio)/Google Sheets
-description: Dashboard to monitor the production and release of studios related to Paulo's company around the world. All the production was stored in google sheets, but he had no easy, consolidated way to see all the data in a single place. Organized the data, did some adjustments to the sheets, and incorporated everything into this dashboard. Final appearance was adjusted by Paulo and his team.
+description: Dashboard to monitor the production and release of studios related to Paulo's company around the world. All the production was stored in google sheets, but he had no easy, consolidated way to see all the data in a single place. /n Organized the data, did some adjustments to the sheets, and incorporated everything into this dashboard. /n Final appearance was adjusted by Paulo and his team.
 ---
